@@ -1,9 +1,13 @@
 # Gasoline.cpp
 
 #include <iostream>
+
 using namespace std;
+
 int main()
+
 {
+
     char type,choice;
     float price1=2.89,price2=3.09,price3=3.39,subtotal,carwash,gallons,cw1,cw=1.25;
 
